@@ -57,8 +57,6 @@ namespace read_data_from_file_in_google_sheet.Controllers
                 //}
             }
 
-            var a = "";
-
             return Ok(values);
         }
 
