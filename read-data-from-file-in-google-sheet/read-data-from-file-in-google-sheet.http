@@ -1,0 +1,6 @@
+@read_data_from_file_in_google_sheet_HostAddress = http://localhost:5066
+
+GET {{read_data_from_file_in_google_sheet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
