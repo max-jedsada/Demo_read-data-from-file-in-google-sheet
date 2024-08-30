@@ -12,7 +12,7 @@ namespace read_data_from_file_in_google_sheet.Controllers
 
         static readonly string[] scopes = {SheetsService.Scope.Spreadsheets};
         static readonly string ApplicationName = "name ApplicationName";
-        static readonly string SpreadsheetId = "13m26F_C5Mve-Rj4RrltBhg1-BPea0dApq3y6ZfghuaI";
+        static readonly string SpreadsheetId = "asdasdasdasdasdasdasdasdasdasdasdasd";
         static readonly string Sheet = "testAAAA";
         static readonly string jsonConfigFile = "third-arcadia-432506-p4-093f7f41dd68.json";
 
